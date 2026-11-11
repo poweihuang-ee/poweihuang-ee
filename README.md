@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Po-Wei Huang 👋
 
-<!--
-**poweihuang-ee/poweihuang-ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering undergraduate at Ming Chuan University, Taiwan.
+Interested in **robot perception and control**.
 
-Here are some ideas to get you started:
+### Currently working on
+- 🏸 **Badminton Training Robot** — a vision-based robot that adapts its serves to the player's position. *(in progress)*
+ 
+### Tech
+Python · C/C++ · OpenCV · ESP32
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+- Robotics Lab, Ming Chuan University
+- RoboCup Taiwan competition
